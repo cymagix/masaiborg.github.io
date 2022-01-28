@@ -1,0 +1,15 @@
+{
+  "name": "github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AsciiEffect.js",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "http-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
